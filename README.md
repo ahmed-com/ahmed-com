@@ -3,7 +3,7 @@
 
 From astrophysics to programming, I am a scientist at heart ❤️ and an engineer in practice 🛠️
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmed-com&theme=dracula&title=-Reviews,-PullRequest&margin-w=15)](https://epistemer.com)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmed-com&theme=dracula&rank=-C&margin-w=15)](https://epistemer.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmed-com&theme=dracula&hide_current_streak=true&card_width=545)](https://epistemer.com)
 
