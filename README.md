@@ -5,7 +5,7 @@ From astrophysics to programming, I am a scientist at heart ❤️ and an engine
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmed-com&theme=dracula&rank=-C&margin-w=15)](https://epistemer.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmed-com&theme=dracula&hide_current_streak=true&card_width=545)](https://epistemer.com)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmed-com&theme=dracula&card_width=545)](https://epistemer.com)
 
 [![GitHub stats](https://github-readme-stats-phi-wheat-18.vercel.app/api?username=ahmed-com&include_all_commits=true&theme=dracula&exclude_repo=elkoptan&show_icons=true&rank_icon=github&card_width=545)](https://epistemer.com)
 <br />
